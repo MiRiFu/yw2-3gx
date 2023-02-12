@@ -1,1 +1,1 @@
-テキスト版：[**ダウンロード**](https://ux.getuploader.com/3gx_TextVersion/download/6)
+テキスト版：[**ダウンロード**](https://ux.getuploader.com/3gx_TextVersion/download/7)
