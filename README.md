@@ -14,3 +14,4 @@
 > [!WARNING]
 > このCTRPFを商品化や販売は一切禁止です。
 > このCTRPFでのデータ破損,消失に関して一切責任を負いません。自己責任でお願いします。
+[![Discord](https://img.shields.io/discord/1171424727647141898?label=Discord&logo=discord&color=blue)](https://disocrd.gg/vPepDdB9je)
