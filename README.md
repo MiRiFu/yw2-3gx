@@ -1,1 +1,3 @@
-テキスト版：[**ダウンロード**](https://ux.getuploader.com/3gx_TextVersion/download/7)
+# 妖怪ウォッチ2(真打) 3gx の配布場所
+アップデートが続かなくなっていったのでdiscordからgithubで配布することになりました。
+## ダウンロードの仕方について
